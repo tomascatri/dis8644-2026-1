@@ -2,6 +2,8 @@
 
 Martes 10 marzo 2026
 
+IMAGEN
+
 Delia Derbyshire 
 
 Delia nació en Coventry inglaterra en 1937, fue una de las pioneras en el mundo de la musica electrónica y figura clave de la historia del sonido experimental. que seca me encantó 
