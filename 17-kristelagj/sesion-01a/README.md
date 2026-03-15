@@ -1,6 +1,6 @@
 # sesion-01a
 
-## Apuntes clase 100326
+# Apuntes clase 100326
 
 - Tejido y proceso humano. Bordar y tejer cables
 
@@ -44,7 +44,7 @@ Referentes mencionados en clase
 
 ---
 
-### Post clase
+## Post clase
 
 ¿Cómo tener un buen proceso en github?
 
