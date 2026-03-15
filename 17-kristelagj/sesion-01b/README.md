@@ -26,7 +26,7 @@
 
 - Know-what es historia. Saber el cómo pasó y el know-how es saber cómo se hicieron las cosas.
 
-(foto de referencia)
+![copa Mesa de trabajo 1](copa_Mesa de trabajo 1.png).
 
 - **Caudal:** corriente de agua que pasa por un lugar
 
@@ -43,9 +43,6 @@ Corriente es cuánta energía pasa. Entre más corriente, más electrones pasan.
 
 - Entre más resistencia, menos flujo. Entre menos resistencia, más flujo hay.
 
-Corriente (i) = voltaje (V)/Resitencia ( R )   LEY DE OHM
-
-
 - La resistencia no tiene polaridad
 
 - Los colores de los cables no tienen orden
@@ -58,7 +55,7 @@ Corriente (i) = voltaje (V)/Resitencia ( R )   LEY DE OHM
 
 ## Post clase
 
-Mi hermana me enseño a como ingresar una imagen en github la cual probé en la primera clase, además de aprender sobre cómo jerarquizar de manera no visual como se haría editorialmente. 
+Mi hermana me enseño a como ingresar una imagen en github la cual probé en la primera clase, además de aprender sobre cómo jerarquizar de manera no visual como se haría editorialmente y como crear una carpeta
 
 Cómo colocar una imagen: en el repositorio dirigirse a “add file” y apretar upload files, subir tu archivo deseado. Después de ello ![colocar el nombre de la foto ](y despues lo repites aqui nuevamente con el tipo de archivo.jpg)
 
