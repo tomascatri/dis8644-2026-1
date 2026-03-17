@@ -177,8 +177,7 @@ Cómo agregar imágenes:
 - Sin mayúsculas
 - Sin espacios (usar -)
 
-![texto alt](./imagenes/archivo.jpg)
-
+![ejemplo](./imagenes/link-imagenejemplo.jpeg)
 
 # Conceptos de circuito
 
