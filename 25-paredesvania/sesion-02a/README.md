@@ -41,3 +41,51 @@
 
 ![circuito2](./imagenes/circuitos.png)
 ![circuito2](./imagenes/circuito.HEIC)
+
+## Encargo: LQXTLC
+
+Armar estos esquemáticos en su protoboard. Documentar que pasa con cada D si retiro cada R. Nombra el apagado como "0" y el encendido como "1".
+
+Ejemplo: Si quito "R5", solo se apaga "D3". El resto se mantiene encendida.
+
+### Ejercicio 1
+
+![Circuito 1](./imagenes/lqxtlc1.png)
+![Circuito 1](./imagenes/ejercicio1.HEIC)
+
+| reesistencias  | D1    | D2    | D3    | D4    |
+| ---                   | ---   | ---   | ---   | ---   |
+| R1                    |    0  |   0   |    0  |    0  |
+| R3                    |    1  |   1   |    1  |   0   |
+| R4                    |    1  |   1   |   1   |  0    |
+| R2                    |    0  |   1   |  1    |   0   |
+| R5                    |    0  |   1   |  1    |   0   |
+
+### Ejercicio 2
+
+![Circuito 2](./imagenes/lqxtlc2.png)
+
+| resistencias | D1 | D2 | D3 |
+| -------------------- | -- | -- | -- |
+| R1                   |    |    |    |
+| R2                   |    |    |    |
+| R3                   |    |    |    |
+| R4                   |    |    |    |
+| R5                   |    |    |    |
+| R6                   |    |    |    |
+| R7                   |    |    |    |
+| R8                   |    |    |    |
+
+### Ejercicio 3
+
+![Circuito 3](./imagenes/lqxtlc3.png)
+
+| resistencias | D1 | D2 | D3 | D4 |
+| -------------------- | -- | -- | -- | -- |
+| R1                   |    |    |    |    |
+| R2                   |    |    |    |    |
+| R3                   |    |    |    |    |
+| R4                   |    |    |    |    |
+| R5                   |    |    |    |    |
+| R6                   |    |    |    |    |
+
