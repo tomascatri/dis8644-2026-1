@@ -84,3 +84,11 @@ La canción Spacelab entre los primeros 40 segundos me recordó por un momento a
 ![Portada del álbum](./imagenes/die-mensch-maschine.jpg)
 
 La portada está inspirada en el artista ruso El Lissitzky y en el movimiento supremacista. En la fotografía tomada por Gunther Frohling, los integrantes estaban usando camisas rojas y corbatas negras, lo cual daba pistas sobre la critica al comunismo ruso que usó al proletariado de manera poco humana, pareciendo robótica y dominada. Ésto también se puede observar en las presentaciones en vivo, en donde los integrantes se van alejando de sus puestos en el escenario y son reemplazados por los muñecos robots, copias de ellos mismos. En la última canción del álbum, Die Mensch-Maschine, se repite en todo momento "die mensch-maschine", con una voz robótica, demostrando así el como el hombre tiene que trabajar de manera mecánica, al igual que una máquina, sin tener como opción el poder distinguirse de los demás.
+
+#### LCD Soundsystem
+
+![Portada Sound of Silver](./imagenes/sound-of-silver.jpg)
+
+Escuché el álbum Sound of Silver, publicado el 12/03/2007. Las canciones del álbum tienen ritmos repetitivos, lo cual hace que sea fácil de escuchar y que te guste, pero lo más interesante son las letras existencialistas de Murphy.
+
+La canción más famosa del álbum es "All my Friends", la cual habla sobre desamor, por lo cual la gente asume que fue inspirada respecto a una ruptura amorosa, pero la realidad es que Murphy se inspiró en la muerte de su psicólogo, el cual había fallecido poco antes de que se pusieran a grabar el álbum. En lo personal, "All my Friends" no es de mi gusto ya que las intros largas me aburren, pero en [esta presentación](https://www.youtube.com/watch?v=FlogJqMFaYA&list=RDFlogJqMFaYA&start_radio=1) me gusta bastante, ya que lo encuentro algo muy emocional, lo cual me permite conectar con la ésta. Mi canción favorita del álbum es "Sound of Silver", en específico los últimos minutos en donde se pueden escuchar lo que parecen ser metales chocando, lo cual me recuerda bastante a la canción ["Scared"](https://www.youtube.com/watch?v=Gvn_plPtgE4&list=RDGvn_plPtgE4&start_radio=1) de P1harmony, ya que el inicio de ésta canción es con ruidos metálicos, razón por la cual a muchos fans no les gusta solo por ésta introducción, pero a mi parecer, es bastante entretenido y bailable.
