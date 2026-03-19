@@ -70,12 +70,15 @@ Cuero
 
 ![apuntes](./imagenes/apuntes_circuito_paralelo.jpg)
 
-## Encargo 03 
+## Encargo 03 LQXTLC
+
+### Ejercicio 1
 
 | Protoboard | D1 | D2 | D3 | D4 |
 | :--- | :---: | :---: | :---: | ---: |
-| R1 |  |  |  |  |
-| R2 |  |  |  |  |
-| R3 |  |  |  |  |
-| R4 |  |  |  |  |
-| R5 |  |  |  |  |
+| R1 | 0 | 0 | 0 | 0 |
+| R2 | 1 | 0 | 0 | 1 |
+| R3 | 1 | 1 | 1 | 0 |
+| R4 | 1 | 1 | 1 | 0 |
+| R5 | 1 | 0 | 0 | 1 |
+
