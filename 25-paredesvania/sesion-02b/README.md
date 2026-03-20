@@ -50,8 +50,6 @@ Capacitor cerámico, no polarizado:
 
 ![lenguaje-condensador](./imagenes/lenguaje.jpg)
 
-![lenguaje-condensador](./imagenes/lenguaje.jpg)
-
 ## Ejeercicio en clase
 
 Capacitor 1UF: La lucecita no parpadea.
